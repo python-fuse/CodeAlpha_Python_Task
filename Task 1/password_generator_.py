@@ -1,8 +1,8 @@
-import string   #Always make import on separate line
+import string
 import random
 
 letters = string.ascii_letters
-symbols = '()!@#$%_+-'
+symbols = "()!@#$%_+-"
 digits = string.digits
 characters = symbols + letters + digits
 check = True
@@ -23,4 +23,3 @@ while check:
         check = False
     else:
         print("Length must be a digit \n")
-
