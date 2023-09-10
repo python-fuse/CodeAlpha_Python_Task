@@ -8,7 +8,7 @@ Welcome to my CodeAlpha internship tasks repository..
 
 **Status:** Completed
 
-**Related Files:** master/Task 1/password_generator_.py
+**Related Files:** root/Task 1/
 
 **Additional Notes:** I also made a basic GUI version of it in Tkinter.
 
@@ -18,7 +18,7 @@ Welcome to my CodeAlpha internship tasks repository..
 
 **Status:** Completed
 
-**Related Files:** master/Task 2/quiz_app.py
+**Related Files:** root/Task 2/
 
 **Additional Notes:** Play and have fun!
 
@@ -28,7 +28,7 @@ Welcome to my CodeAlpha internship tasks repository..
 The variable is now read out using pytts3(a text to speech module) andalso saved as an mp3 file.
 
 **Status:** Completed
-**Related Files:** master/Task_3/image_to_text.py
+**Related Files:** root/Task_3/
 
 **Additional Notes:** This is my most favorite task of the 3 tasks,I got to explore and learn about a couple of modules and libraries.Imean it's really amazing seeing and image "converted" to audio, right?
 
