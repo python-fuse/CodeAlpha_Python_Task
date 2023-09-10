@@ -6,6 +6,7 @@ import random   # Import the 'random' module for randomization
 letters = string.ascii_letters  # Uppercase and lowercase letters
 symbols = "()!@#$%_+-"         # Common symbols for passwords
 digits = string.digits          # Digits (0-9)
+
 characters = symbols + letters + digits  # Combine all characters into one list
 
 check = True   # Flag for user input validation

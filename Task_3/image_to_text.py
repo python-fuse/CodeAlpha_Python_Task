@@ -7,7 +7,7 @@ import pyttsx3         # pyttsx3 for text-to-speech conversion
 tts = pyttsx3.init()
 
 # Open an image file (replace "text.png" with the path to your image)
-image = Image.open("text.png")
+image = Image.open("Task_3/image.png")
 
 # Extract text from the image using pytesseract
 text = pytesseract.image_to_string(image)
@@ -16,7 +16,7 @@ text = pytesseract.image_to_string(image)
 print(text)
 
 # Save the extracted text to an audio file ("output.mp3")
-tts.save_to_file(text, "output.mp3")
+tts.save_to_file(text, "Task_3/output.mp3")
 
 # Convert the text to speech
 tts.say(text)

@@ -31,7 +31,6 @@ pass_display = ttk.Entry(
     font=("roboto medium", 10),
 )
 pass_display.pack(pady=5, ipadx=10)
-
 pass_label = ttk.Label(root, text="Enter desired length")
 pass_label.pack()
 
