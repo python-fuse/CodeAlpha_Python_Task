@@ -2,30 +2,30 @@
 
 Welcome to my CodeAlpha internship tasks repository..
 
-## Task 1: [Python Password Generator]
+## Task 1: Python Password Generator
 
-**Description:** [Generating strong Passwords in python]
+**Description:** Generating strong Passwords in Python
 
-**Status:** [Completed]
+**Status:** Completed
 
-**Related Files:** [master/Task 1/password_generator_.py]
+**Related Files:** master/Task 1/password_generator_.py
 
-**Additional Notes:** [I also made a basic GUI version of it in Tkinter.]
+**Additional Notes:** I also made a basic GUI version of it in Tkinter.
 
-## Task 2: [Quiz program]
+## Task 2: Quiz program
 
-**Description:** [A quiz program in python where admins can add quizzes while the players play it.]
+**Description:** A quiz program in python where admins can add quizzes while the players play it.
 
-**Status:** [Completed]
+**Status:** Completed
 
-**Related Files:** [master/Task 2/quiz_app.py]
+**Related Files:** master/Task 2/quiz_app.py
 
-**Additional Notes:** [Play andhave fun!]
+**Additional Notes:** Play and have fun!
 
-## Task 3: [Image to sound using Tesseract OCR via pytesseract]
+## Task 3: Image to sound using Tesseract OCR via pytesseract
 
-**Description:** [In this python program,we take in an image containing text in it and feed it to pytesseract which in turn extracts the text and print/store in a variable.
-The variable is now read out using pytts3(a text to speech module) andalso saved as an mp3 file.]
+**Description:** In this python program,we take in an image containing text in it and feed it to pytesseract which in turn extracts the text and print/store in a variable.
+The variable is now read out using pytts3(a text to speech module) andalso saved as an mp3 file.
 
 **Status:** Completed
 **Related Files:** master/Task_3/image_to_text.py
